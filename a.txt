@@ -1,4 +1,0 @@
-dds
-hello world
-hello git
-hello java
